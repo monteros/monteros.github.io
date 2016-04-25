@@ -1,0 +1,36 @@
+# Gems
+gems: [jekyll-paginate]
+gems: [jekyll-gist]
+
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            'True Belief'
+tagline:          ''
+description:      "
+<font size='4'>
+I'm agnostic. This is important.
+</br></br>
+It's also important that you understand what that means. Look it up. Don't just assume you know.
+</br></br>
+If you're an atheist you need to rethink the logical conclusion of your beliefs.
+</br></br>
+If you believe in a loving, grandfather figure looking out for you then you probably should
+read the texts upon which you base your beliefs. I'm going to guess you haven't actually read them. But I'm sure you've perused a lot of things very unrelated to religion.
+</br></br>
+"
+url:              right here
+baseurl:          /
+
+author:
+  name:           'Monster'
+  url:            right here
+
+paginate:         5
+
+github:
+  repo:           https://github.com/monteros

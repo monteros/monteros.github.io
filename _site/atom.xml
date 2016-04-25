@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>True Belief</title>
+ <link href="right here/atom.xml" rel="self"/>
+ <link href="right here/"/>
+ <updated>2016-04-24T23:51:49-05:00</updated>
+ <id>right here</id>
+ <author>
+   <name>Monster</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Belief</title>
+   <link href="right here/2016/04/17/confessions.html"/>
+   <updated>2016-04-17T00:00:00-05:00</updated>
+   <id>right here/2016/04/17/confessions</id>
+   <content type="html">&lt;p&gt;Just to let you know where this is going, I’m going to be writing about my pain. This is a cathartic exercise. It may be a bit academic … because I’m a bit academic. 
+It may be a bit painful because confronting one’s inadequacies is always painful and if you’re reading this we probably share some inadequacies.&lt;/p&gt;
+
+&lt;p&gt;The thread on the main page will only show brief thoughts. Specific thoughts will be explored in their own section.&lt;/p&gt;
+
+&lt;p&gt;That’s all for now. It’s late.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
